@@ -1,0 +1,13 @@
+div{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+#forside{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(156, 156, 180);
+    background-color: rgb(2, 2, 46);
+    height: 75px;
+}
