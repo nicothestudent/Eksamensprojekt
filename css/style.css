@@ -7,7 +7,12 @@ div{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
-    color: rgb(156, 156, 180);
-    background-color: rgb(2, 2, 46);
-    height: 75px;
+    color: #ffffff;
+    background-color: rgb(2, 2, 73);
+    height: 80px;
+}
+#container{
+    width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
 }
