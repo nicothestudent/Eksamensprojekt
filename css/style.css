@@ -3,16 +3,41 @@ div{
     margin: 0;
 
 }
-#forside{
+body{
+    background-color:oldlace;
+    margin: 0;
+}
+#header{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     color: #ffffff;
     background-color: rgb(2, 2, 73);
     height: 80px;
+    margin-top: 0;
+    
 }
+#menubar{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #ffffff;
+    background-color: rgb(2, 2, 85);
+}
+
 #container{
-    width: 1080px;
+    width: 80%;
     margin-right: auto;
     margin-left: auto;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#Velkommen{
+    text-align: center;
+    font-size: 60;
+}
+#billede-på-velkomstside{
+    float: right;
+    margin-left: 20px;
+    
 }
