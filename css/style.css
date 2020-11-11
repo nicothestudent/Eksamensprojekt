@@ -4,7 +4,7 @@ div{
 
 }
 body{
-    background-color:oldlace;
+    background-color: rgb(2, 2, 73);
     margin: 0;
 }
 #header{
@@ -12,7 +12,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     color: #ffffff;
-    background-color: rgb(2, 2, 73);
+    background-color: rgb(28, 28, 110);
     height: 80px;
     margin-top: 0;
     
@@ -22,7 +22,8 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     color: #ffffff;
-    background-color: rgb(2, 2, 85);
+    background-color: rgb(41, 41, 126);
+    
 }
 
 #container{
@@ -33,11 +34,33 @@ body{
 
 }
 #Velkommen{
+    padding: 10px;
     text-align: center;
     font-size: 60;
+    background-color: whitesmoke;
+    height: 600px;
 }
 #billede-på-velkomstside{
     float: right;
     margin-left: 20px;
+    background-color: whitesmoke;
+    
     
 }
+#footer{
+    color: white;
+}
+#topmenu .menulist{
+    text-decoration: none;
+    display: inline-block;
+    width: 15%;
+    border: solid; border-color: grey;
+    
+}
+.menulist a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
